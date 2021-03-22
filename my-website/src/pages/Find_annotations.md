@@ -16,7 +16,7 @@ Journal/conf - Development | Year - 2018
 
 ___________________________________________________________________________________
 
-* **SAMPLE: Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein**
+* **SAMPLE: Structure, Function, and Antigenicity of the SARS-CoV-2 Spike Glycoprotein**  
 Walls A.C., Park Y.J., Tortorici M.A., Wall A., McGuire A.T., Veesler D.   
 *PMID: 32155444 | PMCID: PMC7102599 |  **doi: 10.1016/j.cell.2020.02.058** *   
 Journal/conf - Cell | Year - 2020   
